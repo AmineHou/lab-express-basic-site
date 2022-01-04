@@ -1,0 +1,15 @@
+body {
+  background-image: url(/images/dark-souls-bonfire.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0 50px;
+}
+
+#greeting {
+  color: rgba(255, 255, 255);
+  background-color: rgba(37, 36, 34, 0.5);
+  border: solid;
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+}

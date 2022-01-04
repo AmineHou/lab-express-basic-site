@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "dks-font";
+  src: url(/fonts/OptimusPrinceps.ttf);
+}
+
+body {
+  font-family: "dks-font";
+}
+
+nav {
+  padding-top: 20px;
+}
+
+a {
+  color: rgba(255, 255, 255);
+  text-decoration: none;
+  margin-right: 10px;
+}
